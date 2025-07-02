@@ -25,18 +25,16 @@ cd Movie-Recommender-System
 **Install dependencies**
 
 install required packages:
-
 pip install -r requirements.txt
 
 Run the recommender script:
-
 python movie_recommender.py
 
 You will be prompted to enter a movie title:
-
 Enter a movie title (or 'exit' to quit):
 
 **Future Improvements**
+
 -Build a Streamlit web interface
 
 -Add collaborative filtering models
