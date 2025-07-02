@@ -1,11 +1,11 @@
 # 🎬 Movie Recommender System
 
-A content-based movie recommender system built in Python using pandas, scikit-learn, and NLTK.
+-A content-based movie recommender system built in Python using pandas, scikit-learn, and NLTK.
 
-This project recommends similar movies based on genres, keywords, cast, and crew information extracted from the TMDb dataset.
+-This project recommends similar movies based on genres, keywords, cast, and crew information extracted from the TMDb dataset.
 
 ## Features
-- Recommend Top 5 Similar Movies  
+- Recommend Top 5 Similar Movies
 - Text preprocessing and stemming  
 - Cosine similarity for ranking recommendations  
 - Simple command-line interface
@@ -24,16 +24,16 @@ cd Movie-Recommender-System
 
 **Install dependencies**
 
-install required packages:
-pip install -r requirements.txt
+install required packages: 
+ pip install -r requirements.txt
 
-Run the recommender script:
-python movie_recommender.py
+Run the recommender script: 
+ python movie_recommender.py
 
-You will be prompted to enter a movie title:
+You will be prompted to enter a movie title: 
 Enter a movie title (or 'exit' to quit):
 
-**Future Improvements**
+## Future Improvements
 
 -Build a Streamlit web interface
 
